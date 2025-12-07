@@ -1,0 +1,4 @@
+TrainingImage/
+TrainingImageLabel/
+__pycache__/
+*.db
